@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First HTML Page</title>
+  </head>
+  <body>
+    <h1>Hello, Master Chief!</h1>
+    <p>This is your first mission in HTML.</p>
+  </body>
+</html>
